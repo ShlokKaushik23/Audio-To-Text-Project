@@ -1,3 +1,6 @@
+
+<img width="956" alt="Webpage" src="https://github.com/user-attachments/assets/e6cee2ed-c0c3-48ad-8d6c-895a2db1523c" />
+<img width="959" alt="Webpage-Output" src="https://github.com/user-attachments/assets/7b9ca797-2fb3-4870-94fc-18998ea21228" />
 #  Multilingual Audio-to-Text Transcription using Whisper
 
 A simple web app that converts `.mp3` audio files into accurate text transcriptions using OpenAI's Whisper model, all through a clean and responsive Streamlit interface.
@@ -50,5 +53,4 @@ cd AudioToText
 pip install openai-whisper
 pip install torch
 pip install ffmpeg-python
-<img width="956" alt="Webpage" src="https://github.com/user-attachments/assets/e6cee2ed-c0c3-48ad-8d6c-895a2db1523c" />
-<img width="959" alt="Webpage-Output" src="https://github.com/user-attachments/assets/7b9ca797-2fb3-4870-94fc-18998ea21228" />
+
