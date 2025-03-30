@@ -35,10 +35,6 @@ I can't upload the prebuilt `whisper-env` due to size limits (1,5GB) limit on Gi
 
 > Whisper and PyTorch don’t work properly on Python 3.12.
 
-bash
-pip install openai-whisper
-pip install torch
-pip install ffmpeg-python
 
 - Download from: https://www.python.org/downloads/release/python-3100/
 - During installation, check  “Add Python to PATH”
@@ -50,3 +46,7 @@ pip install ffmpeg-python
 ```bash
 git clone https://github.com/ShlokKaushik23/Audio-To-Text-Project
 cd AudioToText
+
+pip install openai-whisper
+pip install torch
+pip install ffmpeg-python
