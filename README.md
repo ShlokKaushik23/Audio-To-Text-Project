@@ -34,6 +34,8 @@ I can't upload the prebuilt `whisper-env` due to size limits (1,5GB) limit on Gi
 ###  Step 1: Install Python 3.10, openai-whisper 
 
 > Whisper and PyTorch don’t work properly on Python 3.12.
+
+```bash
 pip install openai-whisper
 pip install torch
 pip install ffmpeg-python
