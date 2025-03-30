@@ -46,5 +46,5 @@ pip install ffmpeg-python
 ###  Step 2: Clone or Download This Project
 
 ```bash
-git clone <https://github.com/ShlokKaushik23/Audio-To-Text-Project>
+git clone https://github.com/ShlokKaushik23/Audio-To-Text-Project
 cd AudioToText
