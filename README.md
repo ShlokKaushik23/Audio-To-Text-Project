@@ -14,7 +14,7 @@ The app automatically detects the spoken language using Whisper’s multilingual
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - Upload `.mp3` audio files
 - Select Whisper model (`tiny`, `base`, `small`, `medium`, `large`)
